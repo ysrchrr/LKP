@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T03:40:55.356Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" version="14.2.7" etag="suM-K0n0kdW3nOVELFr6" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-26T07:01:40.121Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="YsLAPLXA95JtpNzq6fmR" version="14.2.7" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="bWIfp3Il2FL2vctRfuKx-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="bWIfp3Il2FL2vctRfuKx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-1" value="&lt;b&gt;&lt;i&gt;Ketua&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="314" y="60" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-3" value="&lt;b&gt;&lt;i&gt;Penanggung Jawab&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-4" value="&lt;b&gt;&lt;i&gt;Penasehat&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-6" value="" style="endArrow=none;html=1;fontFamily=Verdana;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bWIfp3Il2FL2vctRfuKx-4" target="bWIfp3Il2FL2vctRfuKx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-7" value="" style="endArrow=none;html=1;fontFamily=Verdana;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="bWIfp3Il2FL2vctRfuKx-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="94.5" as="sourcePoint" />
+            <mxPoint x="588" y="94.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-8" value="&lt;b&gt;&lt;i&gt;Wakil Ketua&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="314" y="160" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-11" value="&lt;b&gt;&lt;i&gt;Anggota&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="314" y="370" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-12" value="&lt;b&gt;&lt;i&gt;Koordinator Lapangan&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="314" y="260" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-13" value="&lt;b&gt;&lt;i&gt;Sekretaris&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bWIfp3Il2FL2vctRfuKx-15" value="&lt;b&gt;&lt;i&gt;Bendahara&lt;/i&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
