@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T07:49:04.285Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" etag="AleS-k0NQeO2ymkff2n_" version="14.4.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-03-01T07:50:08.019Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.160" etag="3a2b96IAD37ZuQQQmBCN" version="14.4.3" type="github" pages="8">
   <diagram name="Activity Diagram Input Produk" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -892,7 +892,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C1kNrtoS5WwuQvk8deB2" name="Page-8">
+  <diagram id="C1kNrtoS5WwuQvk8deB2" name="Activity Login">
     <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="x_KieNG2xVuCSh3jT9cd-0" />
